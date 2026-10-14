@@ -10,6 +10,8 @@ on:
 jobs:
   build:
     runs-on: windows-latest
+    permissions:
+      contents: write   # release 步骤需要 GITHUB_TOKEN 的写权限
     steps:
       - uses: actions/checkout@v4
 
