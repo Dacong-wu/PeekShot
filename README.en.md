@@ -1,5 +1,7 @@
 # PeekShot
 
+[![Build](https://github.com/Dacong-wu/PeekShot/actions/workflows/build.yml/badge.svg)](https://github.com/Dacong-wu/PeekShot/actions/workflows/build.yml)
+
 [中文](README.md) | English
 
 Someone touched your computer? Take their photo first, then lock the screen.

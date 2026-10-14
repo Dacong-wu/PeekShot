@@ -1,5 +1,7 @@
 # PeekShot
 
+[![Build](https://github.com/Dacong-wu/PeekShot/actions/workflows/build.yml/badge.svg)](https://github.com/Dacong-wu/PeekShot/actions/workflows/build.yml)
+
 中文 | [English](README.en.md)
 
 有人碰了你的电脑？先给他拍张照，再锁屏。
