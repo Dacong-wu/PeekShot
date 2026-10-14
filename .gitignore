@@ -1,0 +1,15 @@
+# Build output
+PeekShot.exe
+
+# Local test artifacts
+*.jpg
+
+# IDE / editor
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS junk
+Thumbs.db
+Desktop.ini
